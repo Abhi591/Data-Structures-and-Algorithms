@@ -46,5 +46,4 @@ int main()
     arr,size=indDeletion(arr,size,index);
     display(arr,size);
     return 0;
-
 }
