@@ -37,7 +37,7 @@ int main()
 {
     struct myArray marks;
     createArray(&marks,10,2);
-    printf("We are running setval now\n");
+    printf("We are running setval Now\n");
     setVal(&marks);
 
     printf("We are running show now\n");
