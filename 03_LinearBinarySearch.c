@@ -40,7 +40,7 @@ int binarySearch(int arr[], int size, int element)
 }
 int main()
 {
-    // unsorted array for linear search
+    // unsorted array for Linear search
     // int arr[] = {11, 2, 3, 14, 5, 6, 17, 8, 9, 10};
     // int size = sizeof(arr) / sizeof(int);
 
