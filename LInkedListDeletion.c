@@ -69,7 +69,7 @@ int main()
     struct Node *second;
     struct Node *third;
     struct Node *fourth;
-    // allocate memory for nodes in LinkedList in Heap
+    // allocate memory for Nodes in LinkedList in Heap
     head = (struct Node *)malloc(sizeof(struct Node));
     second = (struct Node *)malloc(sizeof(struct Node));
     third = (struct Node *)malloc(sizeof(struct Node));
